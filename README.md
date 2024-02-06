@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @av-motion
+- Go developer (earlier: C, C++, PHP, Java)
 - 👀 I’m interested in blockchain, DeFi, web3.0
-- 🌱 I’m currently learning Erigon project
-- 💞️ I’m looking to collaborate on porting Harmony blockchain to Erigon
 - 📫 How to reach me : My Telegram nickname is @av_motion
 
 <!---
